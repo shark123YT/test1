@@ -1,6 +1,6 @@
 // Adding elements:
 elements.Cryotheum = {
-    color: "#133738",
+    color: "#b5f2f7",
     behavior: behaviors.LIQUID,
     category: "liquids",
     viscosity: 10,
